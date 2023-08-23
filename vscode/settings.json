@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Dracula Refined",
+    "remote.SSH.remotePlatform": {
+        "192.168.1.132": "linux",
+        "192.168.1.224": "macOS"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.scrollback": 1000000,
+    "workbench.iconTheme": "vscode-icons"
+}
